@@ -1,0 +1,36 @@
+{
+    "books": [
+        {
+            "id"        : 1,
+            "author"    : "Dan Brown",
+            "title"     : "The Da Vinci Code",
+            "published" : "March 2003",
+            "pages"     : 489,
+            "type"      : "paperback"
+        },
+        {
+            "id"        : 2,
+            "author"    : "Ken Follett",
+            "title"     : "A World Without End",
+            "published" : "October 2007",
+            "pages"     : 1024,
+            "type"      : "paperback"
+        },
+        {
+            "id"        : 3,
+            "author"    : "Dean Koontz",
+            "title"     : "Icebound",
+            "published" : "June 1995",
+            "pages"     : 408,
+            "type"      : "paperback"
+        },
+        {
+            "id"        : 4,
+            "author"    : "Ken Follett",
+            "title"     : "Never",
+            "published" : "November 2021",
+            "pages"     : 832,
+            "type"      : "hardcover"
+        }
+    ]
+}
